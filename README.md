@@ -1,13 +1,13 @@
 # stock_price_predictor_LSTM
 Mini Project as the part of College Assignment : Stock Price Predictor using LSTM
 
-📈Stock Price Predictor (LSTM Deep Learning Model) : 
+📈**Stock Price Predictor (LSTM Deep Learning Model) : **
 
 A machine learning project that predicts future stock prices using historical data, technical indicators, and an LSTM (Long Short-Term Memory) network — with your analysis and model implemented in a Colab notebook.
 
 
 
-📝 Project Overview
+📝 **Project Overview**
 
 This project builds a time-series forecasting model to predict future stock closing prices based on past data. It includes:
 
@@ -25,7 +25,7 @@ All code, analysis and visualizations are implemented in a Colab notebook for ea
 
 
 
-💻 Interactive Notebook (Run in Colab)
+💻 **Interactive Notebook (Run in Colab)**
 
 You can run and experiment with the project directly in Colab using the following link:
 
@@ -36,7 +36,7 @@ This notebook contains: data collection, preprocessing, model training, evaluati
 
 
 
-🔧 Tech Stack & Libraries
+🔧 **Tech Stack & Libraries**
 
 The project uses:
 
@@ -54,7 +54,7 @@ tensorflow / keras — building and training the LSTM model
 
 
 
-How to Use / Run
+**How to Use / Run**
 
 Click the Colab link above → open the notebook
 
@@ -79,7 +79,7 @@ Optionally provide a simple “Buy / Sell / Hold” suggestion based on predicti
 
 
 
-⚙️ How to Run Locally (Windows)
+⚙️ **How to Run Locally (Windows)**
 
 1. Create & activate virtual environment. 
 

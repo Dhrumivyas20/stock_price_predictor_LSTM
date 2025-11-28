@@ -11,9 +11,8 @@ A machine learning project that predicts future stock prices using historical da
 
 This project builds a time-series forecasting model to predict future stock closing prices based on past data. It includes:
 
-Fetching historical stock data (via API)
-
-Computing technical indicators (e.g., moving averages, RSI)
+- Fetching historical stock data (via API)
+- Computing technical indicators (e.g., moving averages, RSI)
 
 Training LSTM-based deep learning models
 

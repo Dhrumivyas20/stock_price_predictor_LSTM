@@ -6,6 +6,7 @@ Mini Project as the part of College Assignment : Stock Price Predictor using LST
 A machine learning project that predicts future stock prices using historical data, technical indicators, and an LSTM (Long Short-Term Memory) network — with your analysis and model implemented in a Colab notebook.
 
 
+
 📝 Project Overview
 
 This project builds a time-series forecasting model to predict future stock closing prices based on past data. It includes:
@@ -23,6 +24,7 @@ Generating basic “Buy / Sell / Hold” suggestions based on model output
 All code, analysis and visualizations are implemented in a Colab notebook for easy execution and reproducibility.
 
 
+
 💻 Interactive Notebook (Run in Colab)
 
 You can run and experiment with the project directly in Colab using the following link:
@@ -30,6 +32,9 @@ You can run and experiment with the project directly in Colab using the followin
 Open in Colab → Stock Price Predictor Notebook
 
 This notebook contains: data collection, preprocessing, model training, evaluation and visualization.
+
+
+
 
 🔧 Tech Stack & Libraries
 
@@ -46,6 +51,7 @@ yfinance (or similar API) — fetching stock data
 scikit-learn — preprocessing (scaling, train/test splitting)
 
 tensorflow / keras — building and training the LSTM model
+
 
 
 How to Use / Run
@@ -69,6 +75,7 @@ Show evaluation metrics (RMSE, MAE)
 Optionally provide a simple “Buy / Sell / Hold” suggestion based on predictions
 
 (Optional) If you want to save/export model and code, you can copy the notebook content into modular Python scripts, or download the notebook as .ipynb / .py.
+
 
 
 
